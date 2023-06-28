@@ -1,0 +1,6 @@
+framework module Pods_ProductivityApp_ProductivityAppUITests {
+  umbrella header "Pods-ProductivityApp-ProductivityAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
